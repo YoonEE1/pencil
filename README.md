@@ -1,2 +1,2 @@
-# Pencil, C-family programming language.
-It aims to be simple enough to be used with a pencil.
+i dont like C
+its just interpreter
