@@ -1,2 +1,2 @@
-i dont like C
-# its just interpreter
+bro c is trashing 😭😭😭
+# C는 쓰는거 아녀유ㅜㅜㅜ
